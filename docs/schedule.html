@@ -1,0 +1,454 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Semester Schedule - DATA 150 - Evolving Solutions</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="syllabus.html"><strong aria-hidden="true">1.</strong> Course Description</a></li><li class="chapter-item expanded "><a href="schedule.html" class="active"><strong aria-hidden="true">2.</strong> Semester Schedule</a></li><li class="chapter-item expanded "><a href="assignments.html"><strong aria-hidden="true">3.</strong> Formal Writing Assignments</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="assignment1.html"><strong aria-hidden="true">3.1.</strong> Assignment 1</a></li><li class="chapter-item expanded "><a href="assignment2.html"><strong aria-hidden="true">3.2.</strong> Assignment 2</a></li><li class="chapter-item expanded "><a href="assignment3.html"><strong aria-hidden="true">3.3.</strong> Assignment 3</a></li><li class="chapter-item expanded "><a href="assignment4pt1.html"><strong aria-hidden="true">3.4.</strong> Assignment 4a</a></li><li class="chapter-item expanded "><a href="assignment4pt2_short.html"><strong aria-hidden="true">3.5.</strong> Assignment 4b</a></li></ol></li><li class="chapter-item expanded "><a href="work_f21.html"><strong aria-hidden="true">4.</strong> Student Work-Fall 21</a></li><li class="chapter-item expanded "><a href="work_s21.html"><strong aria-hidden="true">5.</strong> Student Work-Spring 21</a></li><li class="chapter-item expanded "><a href="work_f20.html"><strong aria-hidden="true">6.</strong> Student Work-Fall 20</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">DATA 150 - Evolving Solutions</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="semester-schedule"><a class="header" href="#semester-schedule">Semester Schedule</a></h1>
+<h2 id="week-1-"><a class="header" href="#week-1-">Week 1 (...)</a></h2>
+<ul>
+<li>Thursday:
+<ul>
+<li>Introductions
+<ul>
+<li>Zoom, Slack, Blackboard &amp; the Syllabus</li>
+</ul>
+</li>
+<li>For next time:
+<ul>
+<li><a href="https://tyler-frazier.github.io/dsbook/getting_started.html">Getting Started</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-2-"><a class="header" href="#week-2-">Week 2 (...)</a></h2>
+<ul>
+<li>
+<p>Tuesday:</p>
+<ul>
+<li>Using Markdown &amp; Github</li>
+<li><a href="https://www.nature.com/articles/d41586-018-06215-5">Don’t forget people in the use of big data for development, Joshua Blumenstock.  Nature: Sept. 10, 2018</a></li>
+<li>Response questions:
+<ul>
+<li>Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis. Additionally, consider the following statements from three of your classmates regarding this article. (1) &quot;Good intent is not enough in data science when dealing with the problems which determine people's experiences&quot; <em>Anna Raymond</em> (2) &quot;Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues &amp; human based issues) could lead to better results.&quot; <em>Nira Nair</em> (3) &quot;In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult.&quot; <em>Kayla Seggelke</em> How do you respond to these ideas regarding &quot;good intent&quot;, &quot;transparency&quot; and the difficult &quot;balancing act&quot; when considering the intersection of human development with data science? Please prepare your response for next Thursday's class.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Thursday:</p>
+<ul>
+<li><a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en">The Best Stats You've Ever Seen, Hans Rosling.  TEDx: February, 2006</a></li>
+<li>Response Questions:
+<ul>
+<li>What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?</li>
+<li>What type of change took place in Asia that preceded economic growth?  Why was this type of change significant?</li>
+<li>In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?</li>
+<li>In terms of income distribution, how has the world changed from 1962 until 2003?</li>
+<li>What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?  How does this relate to his previous observation regarding preconceived ideas?</li>
+<li>In your opinion, why was Hans Rosling’s work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?</li>
+</ul>
+</li>
+<li>For next time:
+<ul>
+<li><a href="https://dsfall21.slack.com/files/U02DA5H2NGJ/F02E98U4ERX/sen_devfree_intro_2.pdf">Development as Freedom by Amartya Sen</a>, Development as Freedom: Introduction</li>
+</ul>
+</li>
+<li>Friday: add/drop period ends</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-3-"><a class="header" href="#week-3-">Week 3 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>Introduce Assignment 1: 
+<ul>
+<li><a href="assignment1.html">Write an Annotated Bibliography</a></li>
+<li>For next time:
+<ul>
+<li><a href="https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c">Development as Freedom by Amartya Sen</a>, Development as Freedom: Chapter 1</li>
+<li>Discuss possible human development topic selections</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>Discuss Assignment 1</li>
+<li>Topic consideration</li>
+<li>For next time: 
+<ul>
+<li><a href="https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c">Development as Freedom by Amartya Sen</a>, Development as Freedom: Chapter 2 </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Friday: ...</li>
+</ul>
+<h2 id="week-4-"><a class="header" href="#week-4-">Week 4 (...)</a></h2>
+<ul>
+<li>
+<h2 id="tuesday"><a class="header" href="#tuesday">Tuesday:</a></h2>
+</li>
+<li>
+<h2 id="thursday"><a class="header" href="#thursday">Thursday:</a></h2>
+</li>
+</ul>
+<h2 id="week-5-"><a class="header" href="#week-5-">Week 5 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>Review annotations and discuss topic development</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>Review annotations and discuss topic development</li>
+</ul>
+</li>
+<li>Saturday: Annotated bibliography due by 5PM</li>
+</ul>
+<h2 id="week-6-"><a class="header" href="#week-6-">Week 6 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>Introduce Assignment 2</li>
+<li>For next time:
+<ul>
+<li><a href="https://www.wired.com/2008/06/pb-theory/">The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, Chris Anderson.  Wired: June 23, 2008</a></li>
+<li><a href="https://journals.sagepub.com/doi/full/10.1177/2053951714528481">Big Data, new epistemologies and paradigm shifts, Rob Kitchin.  Big Data &amp; Society: April 1, 2014</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Thursday: Spring Break Day, No Class (3/4)</li>
+</ul>
+<h2 id="week-7-"><a class="header" href="#week-7-">Week 7 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>for next time:
+<ul>
+<li>Add at least one new citation to your critical analysis</li>
+<li>Discuss Kitchin</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>Workshop</li>
+<li>for next time:
+<ul>
+<li><a href="https://www.youtube.com/watch?v=02EZPxPcFqs">Development and Complexity by Owen Barder</a></li>
+<li>Discuss your outline</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-8-"><a class="header" href="#week-8-">Week 8 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>Open Session / Workshop</li>
+</ul>
+</li>
+<li>Sunday: Literature Review due at midnight</li>
+</ul>
+<h2 id="week-9-"><a class="header" href="#week-9-">Week 9 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-10-"><a class="header" href="#week-10-">Week 10 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-11-"><a class="header" href="#week-11-">Week 11 (...)</a></h2>
+<ul>
+<li>Tuesday: ...</li>
+<li>Thursday:
+<ul>
+<li>Open Session / Workshop</li>
+<li>for next time:
+<ul>
+<li><a href="https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf">Scale by Geoff West</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-12-"><a class="header" href="#week-12-">Week 12 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-13-"><a class="header" href="#week-13-">Week 13 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Sunday: Methods paper due at midnight</li>
+</ul>
+<h2 id="week-14-"><a class="header" href="#week-14-">Week 14 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-15-"><a class="header" href="#week-15-">Week 15 (...)</a></h2>
+<ul>
+<li>Tuesday:
+<ul>
+<li>...</li>
+</ul>
+</li>
+<li>Thursday: Last day of class
+<ul>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<h2 id="final"><a class="header" href="#final">Final</a></h2>
+<ul>
+<li>Final Project is due on the last day of the finals period at 5PM.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="syllabus.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="assignments.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="syllabus.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="assignments.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
