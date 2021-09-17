@@ -22,11 +22,7 @@ In this assignment you will use your annotated bibliography as the beginning poi
    4. In your opinion, which scientific questions are most relevant to your selected human development process?
 7. Conclude your literature review with a one or two paragraph reflection on your work to date. Follow this summary by attempting to identify a gap in the literature that you think needs addressed. Also draft a central research question that your investigation into a human development process will seek to answer.
 
-{% embed url="https://libraries.wm.edu" %}
 
-{% embed url="https://libraries.wm.edu/appointments/" %}
-
-{% file src="../.gitbook/assets/lit\_review\_guide.pdf" caption="Literature Review Guide" %}
 
 ## Deliverable
 
