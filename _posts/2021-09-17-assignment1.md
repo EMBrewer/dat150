@@ -1,8 +1,6 @@
 ---
 category: Assignments
-url_path: '/assignments/A1'
 title: 'Assignment 1'
-
 layout: null
 ---
 
