@@ -1,3 +1,9 @@
+---
+category: Assignments
+title: 'Assignment 2'
+layout: null
+---
+
 # Assignment
 
 ## Summary
