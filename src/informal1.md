@@ -1,6 +1,6 @@
 # Background
 
-{% embed url="https://www.youtube.com/watch?v=oAvLrQ-\_HOk" %}
+embed url="https://www.youtube.com/watch?v=oAvLrQ-\_HOk" 
 
 To begin, watch _An African Election_, a movie about politics, economics and human development in the West African nation, Ghana.  This movie documents the 2008 Presidential Election between Professor John Atta Mills from the National Democratic Party \(NDC\) and Nana Akufo-Addo from the National Patriotic Party \(NPP\).  Consider some of the human development themes from the movie, especially the film's focus on demoncracy, capitalism, poverty and their pervasive relationship to human development.
 
@@ -18,13 +18,13 @@ Also consider the relationship between economic prosperity, poverty and human de
 
 Click on the following link to watch _An African Election_ through panopoly.  You should be able to directly access the film in its entirity after logging in with your William & Mary account.
 
-{% embed url="https://wm.kanopy.com/video/african-election" %}
+embed url="https://wm.kanopy.com/video/african-election"
 
 After watching _An African Election_, listen to the [May 2012, Kapuściński Lecture by Owen Barder](https://www.cgdev.org/media/implications-complexity-development-owen-barder) from the Center for Global Development.  While listening to the lecture, also open the slides Barder has provided to accompany his talk by accessing the link found beneath the following soundcloud audio file.
 
-{% embed url="https://soundcloud.com/tyler-frazier-982923313/development-complexity-by-owen-barder" %}
+"https://soundcloud.com/tyler-frazier-982923313/development-complexity-by-owen-barder"
 
-{% file src="../.gitbook/assets/development\_and\_complexity\_slides.pdf" caption="Development and complexity slides" %}
+file src="../.gitbook/assets/development\_and\_complexity\_slides.pdf" caption="Development and complexity slides"
 
 There are a number of different themes presented through the course of Barder's lecture, but most central is the concept of complexity and its relevance in better understanding human development.
 
