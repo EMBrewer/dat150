@@ -1,6 +1,11 @@
 ---
-description: Write a Literature Review
+category: Assignments
+url_path: '/stuff/:id'
+title: 'Assignment 2'
+
+layout: null
 ---
+
 
 # Assignment
 
