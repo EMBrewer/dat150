@@ -1,4 +1,12 @@
-# Assignment 1: Write an Annotated Bibliography TEST TEST
+---
+category: Assignments
+url_path: '/stuff/:id'
+title: 'Assignment 1'
+
+layout: null
+---
+
+# Assignment 1: Write an Annotated Bibliography
 
 ## Summary
 
