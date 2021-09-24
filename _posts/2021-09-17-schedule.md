@@ -32,7 +32,7 @@
 	- Introduce Assignment 1: 
 	  	- [Write an Annotated Bibliography](assignment1.html)
 		- For next time:
-			- [Development as Freedom by Amartya Sen](https://slack-files.com/TFB8EJWF3-F019P8YMQR4-959290c40c), Development as Freedom: Chapter 1
+			- [Development as Freedom by Amartya Sen](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02E98U4ERX/sen_devfree_intro_2.pdf), Development as Freedom: Chapter 1
 			- Discuss possible human development topic selections
 - Thursday:
 	- Discuss Assignment 1
@@ -43,16 +43,16 @@
 ## Week 4 (9/19)
 - Tuesday:
   	- For next time:
-  		- [Development as Freedom by Amartya Sen](...), Development as Freedom: Chapter 2
+  		- [Development as Freedom by Amartya Sen](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02E98U4ERX/sen_devfree_intro_2.pdf), Development as Freedom: Chapter 2
 - Thursday:
   	- For next time:
-		- [Geoff West, Scale - Chapter 1](...)
+		- [Geoff West, Scale - Chapter 1](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02EVA0KH8V/west_scale.pdf)
 	
 ## Week 5 (9/26)
 - Tuesday:
 	- Review annotations and discuss topic development
 	- For next time:
-		- [Geoff West, Scale - Chapter 7 and afterword](...)
+		- [Geoff West, Scale - Chapter 7 and afterword](https://dsfall21.slack.com/files/U02DA5H2NGJ/F02EVA0KH8V/west_scale.pdf)
 - Thursday:
 	- Review annotations and discuss topic development
 	- For next time:
@@ -64,49 +64,54 @@
 - Tuesday:
 	- Introduce Assignment 2
 	- For next time:
+		- Watch [An African Election](https://www.youtube.com/watch?v=oAvLrQ-_HOk)
+- Thursday:
+	- For next time:
 		- [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, Chris Anderson.  Wired: June 23, 2008](https://www.wired.com/2008/06/pb-theory/)
 		- [Big Data, new epistemologies and paradigm shifts, Rob Kitchin.  Big Data & Society: April 1, 2014](https://journals.sagepub.com/doi/full/10.1177/2053951714528481)
-- Thursday:
 
 ## Week 7 (10/10)
 - Tuesday:
-	- for next time: [add reading]
+  - for next time: [Spatially disaggregated population estimates in the absence of national population and housing census data](https://www.pnas.org/content/pnas/115/14/3529.full.pdf) by Wardrop et al.
 - Thursday:
-	- for next time: [add reading]
+	- for next time:
+		- [High resolution global gridded data for use in population studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/) by Lloyd, Sorichetta & Tatem
 
 ## Week 8 (10/17)
 - Tuesday: no class, fall break
 - Thursday:
-	- for next time: [add reading]
+	- for next time: [Mapping road network communities for guiding disease surveillance and control strategies](https://www.nature.com/articles/s41598-018-22969-4) by Strano, Viana, Sorichetta & Tatem
 - Sunday: Literature Review due at midnight
 
 ## Week 9 (10/24)
 - Tuesday:
-	- for next time: [add reading]
+	- for next time: [A spatial database of health facilities managed by the public health sector in sub Saharan Africa](https://www.nature.com/articles/s41597-019-0142-2) by Maina et al.
 - Thursday:
-	- for next time: [add reading]
+	- for next time: [Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107042) by Stevens et al.
 
 ## Week 10 (10/31)
 - Tuesday:
-	- for next time: [add reading]
+	- for next time:
+		- Watch [City of God (Cidade de Deus)](https://www.youtube.com/watch?v=dcUOO4Itgmw)
 - Thursday:
-	- for next time: [add reading]
+	- for next time: [Fine resolution mapping of population age-structures for health and development applications](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073) by Alegana et al.
 
 ## Week 11 (11/7)
 - Tuesday:
-  	- for next time: [add reading]
+  	- for next time: [Exploring the high-resolution mapping of gender-disaggregated development indicators](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825) Bosco et al.
 - Thursday:
-	- for next time: [add reading]
+	- for next time: [Modeling internal migration flows in sub-Saharan Africa using census microdata](https://academic.oup.com/migration/article/3/1/89/2413406) by Garcia, Pindolia, Lopiano & Tatem
 
 ## Week 12 (11/14)
 - Tuesday:
-	- for next time: [add reading]
+	- for next time: [Exploring the use of mobile phone data for national migration statistics](https://www.nature.com/articles/s41599-019-0242-9.pdf) by Lai et al.
 - Thursday:
-	- for next time: [add reading]
+	- for next time: [Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings](https://www.nature.com/articles/s41598-019-41192-3.pdf) by Kraemer et al.
 
 ## Week 13 (11/21)
 - Tuesday:
-	- for next time: [add reading]
+	- Planning final presentations
+	- for next time: Watch [Good Bye Lenin!](https://www.youtube.com/watch?v=u5hzmwGW4Ac)
 - Thursday:
 	- Planning final presentations
 - Sunday: Methods paper due at midnight
