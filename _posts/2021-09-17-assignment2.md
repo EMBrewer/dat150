@@ -5,7 +5,7 @@ layout: null
 ---
 
 
-# Assignment 2
+# Assignment 2: Literature Review
 
 ## Summary
 
