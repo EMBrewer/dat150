@@ -1,9 +1,3 @@
----
-category: Assignments
-title: 'Assignment 1'
-layout: null
----
-
 # Assignment 1: Annotated Bibliography
 
 ## Summary
