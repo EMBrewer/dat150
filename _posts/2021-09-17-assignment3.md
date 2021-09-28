@@ -4,7 +4,7 @@ title: 'Assignment 3'
 layout: null
 ---
 
-# Assignment 3
+# Assignment 3: Methodological Investigation
 
 ## Summary
 
