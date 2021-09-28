@@ -4,7 +4,7 @@ title: 'Assignment 4'
 layout: null
 ---
 
-# Part 1.  Present your Results
+# Present your Results
 
 ## Summary
 
