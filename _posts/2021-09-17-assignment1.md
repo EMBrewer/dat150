@@ -4,7 +4,7 @@ title: 'Assignment 1'
 layout: null
 ---
 
-# Assignment 1: Write an Annotated Bibliography
+# Assignment 1: Annotated Bibliography
 
 ## Summary
 
