@@ -47,5 +47,5 @@ After selecting a research topic and annotating each source propose a region, co
 
 ## Deliverable
 
-Type your annotated bibliography.  Your annotated bibliography should be at least 1600 words in length and include a minimum of 4 different sources. Title your annotated bibliography and be sure to include your name. Note your word count on the first page.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography as link on the index of your GitHub pages site no later than 6PM, Saturday, October 2nd by 5PM.
+Type your annotated bibliography.  Your annotated bibliography should be at least 1600 words in length and include a minimum of 4 different sources. Title your annotated bibliography and be sure to include your name. Note your word count on the first page.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography as link on the index of your GitHub pages site no later than Sunday October 3rd by 11:59pm.
 
