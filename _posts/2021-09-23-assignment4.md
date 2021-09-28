@@ -1,9 +1,3 @@
----
-category: Assignments
-title: 'Assignment 4'
-layout: null
----
-
 # Assignment 4: Present your Results
 
 ## Presentation
