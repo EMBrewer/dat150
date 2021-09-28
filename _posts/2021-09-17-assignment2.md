@@ -1,10 +1,3 @@
----
-category: Assignments
-title: 'Assignment 2'
-layout: null
----
-
-
 # Assignment 2: Literature Review
 
 ## Summary
