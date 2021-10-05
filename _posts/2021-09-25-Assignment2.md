@@ -16,7 +16,7 @@ In this assignment, you will use your annotated bibliography as the beginning po
    2. Are you able to identify features associated with your human development process that are difficult or nearly impossible to predict in detail? Alternatively, are you able to identify broader system properties or features that are more feasible to predict?
    3. Are you able to identify an emergent property inherent to your human development process that does not necessarily link to an individual specific agent? Are you able to describe how your human development process tends towards greater complexity and away from equilibrium?
    4. In your opinion, which scientific questions are most relevant to your selected human development process?
-7. Conclude your literature review with a one or two paragraph reflection on your work to date. Follow this summary by attempting to identify a gap in the literature that you think needs to be addressed. Also draft a central research question that your investigation into a human development process will seek to answer.
+7. Conclude your literature review with a one (or two) paragraph summary. Follow this summary by attempting to identify a gap in the literature that you think needs to be addressed. Also attempt to draft a central research question that your investigation into a human development process will seek to answer.
 
 
 ## Deliverable
