@@ -10,7 +10,7 @@ Begin by proposing a research topic you would like to investigate this semester.
 
 * Disaster management and response
 * Socioeconomic Analysis
-* Precision Epidemiology and disease burdern estimation
+* Precision Epidemiology and disease burden estimation
 * Migration
 * Urbanization
 * Infrastructure and social service 
