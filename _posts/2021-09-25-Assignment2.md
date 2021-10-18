@@ -21,4 +21,4 @@ In this assignment, you will use your annotated bibliography as the beginning po
 
 ## Deliverable
 
-Type your annotated literature review.  Title your document and cite your sources.  Identify each reference in a bibliography at the end of your document. Your review should be at least 2000 words in length. Upload your literature review no later than Sunday October 24th at 11:59pm.
+Type your annotated literature review.  Title your document and cite your sources.  Identify each reference in a bibliography at the end of your document. Your review should be at least 2,000 words in length. Upload your literature review no later than Sunday October 24th at 11:59pm.
