@@ -24,4 +24,4 @@ Data science is primarily concerned with the use of data to describe events occu
 
 ## Deliverable
 
-Type your methodological investigation. Title your document. Add your name and cite your sources.  Identify each reference in a bibliography at the end of your document. Your review should be at least 1,200 words in length. Upload your work no later than Sunday November 28th at 11:59pm.
+Type your methodological investigation. Title your document. Add your name and cite your sources.  Identify each reference in a bibliography at the end of your document. Your review should be at least 1,200 words in length. Upload your work no later than Sunday November 21th at 11:59pm.
