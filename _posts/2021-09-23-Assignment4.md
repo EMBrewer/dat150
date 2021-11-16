@@ -2,7 +2,7 @@
 
 Over the course of this semester you have defined a development related problem, critically analyzed the literature about that problem, developed your central research question, interpreted at least two data science methods that answer (in part) that question, and have suggested a research gap. Now, we will hold a colloquium where you will present your results. Each student will need to write an abstract that represents the sum of the work to be presented. Then each student will need to prepare an 8 minute presentation on their individual work. Finally, you will present your work as part of our 3-day in-class colloquium.
 
-### Step 1. Write an abstract and give your presentation a title
+### Step 1. Title & Abstract
 
 Give your presentation a title and write an abstract (1 paragraph summary). Upload your abstract to your GitHub at least two days before your presentation.
 
