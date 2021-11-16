@@ -4,7 +4,7 @@ Over the course of this semester you have defined a development related problem,
 
 ### Step 1. Write an abstract and give your presentation a title
 
-Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name, and the date you will present. Upload your abstract to your GitHub by two days before your presentation.
+Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name, and the date you will present. Upload your abstract to your GitHub at least two days before your presentation.
 
 ### Step 2. Prepare the slides for your presentation
 
