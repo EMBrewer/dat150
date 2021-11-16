@@ -1,6 +1,6 @@
 # Assignment 4: Present your Results
 
-Over the course of this semester you have defined a development related problem, critically analyzed the literature about that problem, developed your central research question, interpreted at least two data science methods that answer (in part) that question, and have suggested a research gap. Now, we will hold a colloquium where you will present your results. Each student will need to write an abstract that represents the sum of the work to be presented. Then each student will need to prepare a 10 minute presentation on their individual work. Finally, you will present your work as part of our 3-day in-class colloquium.
+Over the course of this semester you have defined a development related problem, critically analyzed the literature about that problem, developed your central research question, interpreted at least two data science methods that answer (in part) that question, and have suggested a research gap. Now, we will hold a colloquium where you will present your results. Each student will need to write an abstract that represents the sum of the work to be presented. Then each student will need to prepare an 8 minute presentation on their individual work. Finally, you will present your work as part of our 3-day in-class colloquium.
 
 ### Step 1. Write an abstract and give your presentation a title
 
@@ -8,7 +8,7 @@ Draft an abstract and give your presentation a title. Review and edit your abstr
 
 ### Step 2. Prepare the slides for your presentation
 
-Prepare to speak for 10 minutes and include a presentation slide that addresses each of the following elements from your research:
+Prepare to speak for 8 minutes and include a presentation slide that addresses each of the following elements from your research:
 
 * An introduction to your selected human development topic. Identify salient harms, quantify their significance, and describe the inherent and complex nature of the human development process you have been investigating. Identify the type of inquiry you have selected for your investigation and justify your answer. Elucidate your research in terms of scope, processes, hierarchy, or dynamics. Permutate through the details of your human development process in order to identify, describe, analyze, and possibly infer inherent, systematic, and native intricacies.
 * State the two+ data science methods you selected. Identify and describe the data sources used as well as incorporated variables and methods of sensing or collection. Describe what each method does and how it advances an improved understanding of your selected human development process. Identify the most salient findings resulting from the application of your data science methods. Be sure to use formulas, tables, charts, graphs, and maps, as needed.
