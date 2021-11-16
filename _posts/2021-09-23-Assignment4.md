@@ -19,4 +19,4 @@ Post a final draft of your slides to Slack by 11:59pm the day before your presen
 
 ### Step 3. Present your research during the colloquium
 
-Come prepared to present your work at the agreed upon time. Each speaker will have 10 minutes to present their work, which will be followed by a brief question and answer session from the audience.
+Come prepared to present your work at the agreed upon time. Each speaker will have ~9 minutes to present their work, which will be followed by a brief (~1 minute) question and answer session from the audience.
