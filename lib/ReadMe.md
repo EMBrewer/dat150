@@ -1,13 +1,14 @@
-StreetAware Dataset
+# StreetAware Dataset
 
-Location: vidagpu.poly.edu:/vida/work/street_aware/synchronized/
+## Location: vidagpu.poly.edu:/vida/work/street_aware/synchronized/
 
-Folders structure:
-.
-├── chase_1
-├── chase_2
-├── chase_3
-│   ├── meta				- Metadata used during processing of raw data
+
+### Folder structure:
+
+#### chase_1
+#### chase_2
+#### chase_3
+##### meta				- Metadata used during processing of raw data
 │   │   ├── camera_orders.json	- Left/Right camera associations for raw data
 │   │   └── video_qualities.json	- Video quality settings used for rendring
 │   ├── sensor_1
@@ -57,6 +58,7 @@ Folders structure:
 ├── park_map.pdf
 ├── reip_sensor.jpg
 └── ReadMe.md
+```
 
 Code repository: https://github.com/reip-project/street-aware.git
 
@@ -65,4 +67,3 @@ Attention! Known issues/limitations:
 1) Lidar data is not synchronized with audio and video data;
 2) Park_4 recording session has lots of mising data because of copying error;
 3) Dumbo_4 session experienced lots of lost frames because of sensor overheating.
-
